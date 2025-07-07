@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f30fdb8b02f07a84a997561d7598b424, type: 3}
+  m_Name: Stage 2
+  m_EditorClassIdentifier: 
+  stageName: "N\xEDvel 2 - Precau\xE7\xE3o por Contato"
+  stageDescription: "- As Precau\xE7\xF5es por Contato s\xE3o aplicadas frente \xE0
+    potencial transmiss\xE3o de microrganismos de import\xE2ncia epidemiol\xF3gica,
+    como bact\xE9rias multirresistentes, presentes na pele ou mucosas do paciente,
+    seja pelo contato direto ou pelo contato indireto. \r\n- O objetivo \xE9 estabelecer
+    uma barreira contra microrganismos da pele e mucosas, e tamb\xE9m presentes nos
+    materiais e superf\xEDcies pr\xF3ximos ao paciente.\r\n- As Precau\xE7\xF5es
+    de Contato incluem as recomenda\xE7\xF5es das Precau\xE7\xF5es Padr\xE3o, acrescido
+    do uso obrigat\xF3rio de luvas e avental de uso \xFAnico e individual para o
+    atendimento a cada paciente, m\xE1scara cir\xFArgica e \xF3culos a depender do
+    risco \xE0 exposi\xE7\xE3o."
+  optionsQuestions:
+  - statement: "Paciente \xE9 admitido com quadro de diarreia aquosa, hist\xF3ria
+      de interna\xE7\xE3o h\xE1 menos de 30 dias com uso de antimicrobianos. Trata-se
+      de suspeita de diarreia provocada por clostridioides difficile. Qual tipo de
+      Precau\xE7\xE3o e equipamento de prote\xE7\xE3o individual devem ser adotados?"
+    CorrectAnswer: "Precau\xE7\xE3o por contato; uso de luvas e avental de uso \xFAnico."
+    WrongAnswers:
+    - "Precau\xE7\xE3o a\xE9rea; uso de luvas, avental e m\xE1scara."
+    - "Precau\xE7\xE3o padr\xE3o; uso de luvas e avental."
+  - statement: "De quem \xE9 a responsabilidade de instaurar Precau\xE7\xE3o por
+      Contato?"
+    CorrectAnswer: "A responsabilidade \xE9 compartilhada por todos os profissionais
+      da sa\xFAde."
+    WrongAnswers:
+    - "Do Servi\xE7o de Controle de Infec\xE7\xE3o Hospitalar-CCIH."
+    - "Do m\xE9dico que fez o atendimento inicial."
+  - statement: "Qual \xE9 a acomoda\xE7\xE3o recomendada em caso de paciente com
+      doen\xE7a ou coloniza\xE7\xE3o por microrganismo transmiss\xEDvel atrav\xE9s
+      do contato?"
+    CorrectAnswer: Preferencialmente quarto privativo.
+    WrongAnswers:
+    - Exclusivamente quarto privativo.
+    - Enfermaria e isolamento por coorte.
+  - statement: "Qual \xE9 a acomoda\xE7\xE3o recomendada em caso de paciente com
+      suspeita ou confirma\xE7\xE3o de clostridioides difficile?"
+    CorrectAnswer: Exclusivamente quarto privativo.
+    WrongAnswers:
+    - Preferencialmente quarto privativo.
+    - Enfermaria e isolamento por coorte.
+  - statement: "Quando transportar o paciente em Precau\xE7\xE3o por Contato dentro
+      do hospital, o profissional de sa\xFAde deve usar os seguintes equipamentos
+      de prote\xE7\xE3o individual:"
+    CorrectAnswer: Avental e luvas.
+    WrongAnswers:
+    - "Luvas e m\xE1scara cir\xFArgica."
+    - "\xD3culos e avental."
+  - statement: "Em swab retal para cultura de vigil\xE2ncia do paciente houve crescimento
+      de bact\xE9ria resistente a carbapen\xEAmicos, e foi institu\xEDdo Precau\xE7\xE3o
+      por Contato. Justifique essa recomenda\xE7\xE3o."
+    CorrectAnswer: "Porque o paciente est\xE1 colonizado por bact\xE9ria com potencial
+      de transmissibilidade pelo contato direto ou indireto."
+    WrongAnswers:
+    - Porque o paciente corre o risco de morrer e precisa ser protegido.
+    - "Porque o paciente possui uma bact\xE9ria mutante que pode representar menor
+      possibilidade de sucesso no tratamento."
+  - statement: "Quais as recomenda\xE7\xF5es em rela\xE7\xE3o ao local de paramenta\xE7\xE3o
+      e desparamenta\xE7\xE3o no atendimento a paciente colonizado por Acinetobacter
+      baumanni?"
+    CorrectAnswer: "Paramenta\xE7\xE3o fora do quarto e desparamenta\xE7\xE3o dentro
+      do quarto."
+    WrongAnswers:
+    - "Paramenta\xE7\xE3o dentro do quarto e desparamenta\xE7\xE3o fora do quarto."
+    - "Paramenta\xE7\xE3o dentro ou fora do quarto e desparamenta\xE7\xE3o dentro
+      ou fora do quarto."
+  - statement: "Quais medidas adicionais podem ser utilizadas no cuidado a pacientes
+      em Precau\xE7\xE3o por Contato para reduzir o risco de transmiss\xE3o de microrganismos?"
+    CorrectAnswer: "Uso exclusivo de term\xF4metro, estetosc\xF3pio e esfigmoman\xF4metro;
+      uso dos EPI m\xE1scara cir\xFArgica e \xF3culos."
+    WrongAnswers:
+    - "Uso compartilhado de term\xF4metro, estetosc\xF3pio e esfigmoman\xF4metro;
+      uso dos EPI m\xE1scara cir\xFArgica e protetor facial."
+    - "Uso exclusivo de term\xF4metro, estetosc\xF3pio e esfigmoman\xF4metro; uso
+      dos EPI m\xE1scara N95 e protetor facial."
+  linkQuestions:
+  - statement: "Algumas bact\xE9rias quando identificadas nos servi\xE7os de sa\xFAde
+      s\xE3o alvo de aten\xE7\xE3o. Relacione a bact\xE9ria com a correspondente
+      Precau\xE7\xE3o e cuidados recomendados."
+    pairs:
+    - column1: Acinetobacter sp.
+      column2: "Bact\xE9ria com reservat\xF3rio ambiental por longo per\xEDodo, e
+        requer Precau\xE7\xE3o por Contato e higiene das m\xE3os com solu\xE7\xE3o
+        alco\xF3lica ou sabonete l\xEDquido."
+    - column1: E.colli.
+      column2: "Bact\xE9ria muito comum em infec\xE7\xF5es comunit\xE1rias, se n\xE3o
+        apresentar perfil de resist\xEAncia requer Precau\xE7\xE3o Padr\xE3o e higiene
+        das m\xE3os com solu\xE7\xE3o alco\xF3lica ou sabonete l\xEDquido."
+    - column1: Clostridioides difficile.
+      column2: "Bact\xE9ria que na forma esporulada resiste no ambiente, e requer
+        Precau\xE7\xE3o por Contato e higiene das m\xE3os com sabonete l\xEDquido."
+  wordQuestions:
+  - statement: "Complete a lacuna.\n\nPrecau\xE7\xF5es por s\xE3o medidas protetivas
+      contra agente possivelmente infeccioso de transmiss\xE3o pelo contato direto
+      ou indireto, e invas\xE3o org\xE2nica atrav\xE9s da ____________ e mucosas."
+    CorrectAnswer: pele
+    Regex: \s*pele\s*
+  - statement: "Complete a lacuna com \u2018direto\u2019 ou \u2018indireto\u2019.\n\nA
+      desinfec\xE7\xE3o concorrente no quarto de paciente em Precau\xE7\xE3o por
+      Contato tem o objetivo de reduzir a transmiss\xE3o por contato ____________
+      ."
+    CorrectAnswer: indireto
+    Regex: \s*indireto\s*
+  - statement: "Complete a lacuna:\nDiante da coloniza\xE7\xE3o ou infec\xE7\xE3o
+      por Staphylococcus aureus resistente a vancomicina a precau\xE7\xE3o adequada
+      a ser instaurada \xE9 a precau\xE7\xE3o por ________________."
+    CorrectAnswer: contato
+    Regex: \s*contato\s*
+  - statement: "Complete a lacuna:\n\nTodo quarto com paciente em precau\xE7\xE3o
+      deve ter placa de sinaliza\xE7\xE3o na ________________ de entrada."
+    CorrectAnswer: porta
+    Regex: \s*porta\s*
+  - statement: "Complete a lacuna:\n\nA comunica\xE7\xE3o efetiva \xE9 parte importante
+      para se estabelecer adequada medida de precau\xE7\xE3o. Todo  ________________
+      em precau\xE7\xE3o precisa ser adequadamente identificado e o caso registrado
+      e informado em passagem de plant\xE3o."
+    CorrectAnswer: paciente
+    Regex: \s*paciente\s*

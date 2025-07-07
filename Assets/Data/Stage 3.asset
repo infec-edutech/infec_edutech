@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f30fdb8b02f07a84a997561d7598b424, type: 3}
+  m_Name: Stage 3
+  m_EditorClassIdentifier: 
+  stageName: "N\xEDvel 3 - Precau\xE7\xE3o a\xE9rea"
+  stageDescription: "- As Precau\xE7\xF5es A\xE9reas s\xE3o aplicadas frente \xE0
+    potencial transmiss\xE3o de microrganismos presentes em aeross\xF3is ou got\xEDculas
+    expelidos pela boca e nariz do paciente. \r\n- O objetivo \xE9 estabelecer uma
+    barreira contra microrganismos dispersos no ar, na forma de aeross\xF3is ou got\xEDculas.\r\n-
+    As Precau\xE7\xF5es A\xE9reas incluem as recomenda\xE7\xF5es das Precau\xE7\xF5es
+    Padr\xE3o, acrescido do uso obrigat\xF3rio de m\xE1scara cir\xFArgica, PFF2 ou
+    N95."
+  optionsQuestions:
+  - statement: "Paciente admitido do setor de Pronto Atendimento apresenta tosse
+      persistente com escarro mucopurulento h\xE1 mais de um m\xEAs, perda de peso,
+      sensa\xE7\xE3o de febre e sudorese noturna. Trata-se de caso suspeito de tuberculose
+      bacil\xEDfera.  Qual tipo de m\xE1scara deve ser destinada ao profissional
+      de sa\xFAde e qual tipo de m\xE1scara deve ser destinada ao paciente, respectivamente?"
+    CorrectAnswer: "M\xE1scara PFF2/N95 e M\xE1scara Cir\xFArgica."
+    WrongAnswers:
+    - "M\xE1scara PFF2/N95 e M\xE1scara Bico de Pato."
+    - "M\xE1scara Cir\xFArgica e M\xE1scara PFF2/N95."
+  - statement: "Um paciente adulto admitido no Pronto Atendimento est\xE1 desorientado,
+      com febre alta, sudor\xE9tico; apresenta manchas violetas na face, t\xF3rax
+      e abdome e refere cefaleia. O paciente n\xE3o consegue encostar o queixo no
+      peito, o quadro cl\xEDnico piora rapidamente com sinais de choque s\xE9ptico
+      e as manchas agora parecem ser sangramento disseminados sob a pele. \xC9 um
+      caso suspeito de meningite meningoc\xF3cica. Qual tipo de Precau\xE7\xE3o deve
+      ser institu\xEDda?"
+    CorrectAnswer: "Precau\xE7\xE3o a\xE9rea por got\xEDculas."
+    WrongAnswers:
+    - "Precau\xE7\xE3o por contato."
+    - "Precau\xE7\xE3o a\xE9rea por aeross\xF3is."
+  - statement: "Qual \xE9 a diferen\xE7a entre a m\xE1scara cir\xFArgica e a m\xE1scara
+      PFF/N95 quanto ao uso ou finalidade?"
+    CorrectAnswer: "A m\xE1scara cir\xFArgica \xE9 usada em precau\xE7\xE3o por got\xEDculas
+      e a m\xE1scara PFF2/N95 \xE9 usada em precau\xE7\xE3o por aeross\xF3is."
+    WrongAnswers:
+    - "Nenhuma, ambas as m\xE1scaras t\xEAm a mesma finalidade."
+    - "A m\xE1scara cir\xFArgica \xE9 utilizada somente por pacientes e a m\xE1scara
+      PFF2/N95 \xE9 usada por profissionais de sa\xFAde."
+  - statement: "Diante da suspeita ou diagn\xF3stico de doen\xE7a de transmiss\xE3o
+      por got\xEDculas como deve ser o transporte do paciente?"
+    CorrectAnswer: "Profissional e paciente com uso de m\xE1scara cir\xFArgica. "
+    WrongAnswers:
+    - "Profissional com uso de m\xE1scara cir\xFArgica e paciente com uso de m\xE1scara
+      N95."
+    - "ofissional e paciente com uso de m\xE1scara N95."
+  - statement: "Quando o paciente est\xE1 em Precau\xE7\xE3o A\xE9rea e n\xE3o h\xE1
+      possibilidade de quarto privativo, em qual condi\xE7\xE3o ele pode ser internado
+      com outros pacientes?"
+    CorrectAnswer: "Quando todos os pacientes estiverem em precau\xE7\xE3o a\xE9rea
+      pelo mesmo microrganismo e n\xE3o for caso suspeito de tuberculose resistente."
+    WrongAnswers:
+    - "Quando todos os pacientes estiverem em precau\xE7\xE3o a\xE9rea, independentemente
+      do microrganismo."
+    - Quando todos os pacientes estiverem colonizados, independentemente do microrganismo.
+  - statement: "As m\xE1scaras s\xE3o equipamentos de prote\xE7\xE3o para nariz e
+      boca e diferem de acordo com o germe arrolado na referida precau\xE7\xE3o.
+      Qual \xE9 a m\xE1scara adequada para uso do profissional no atendimento em
+      caso de suspeita ou confirma\xE7\xE3o de tuberculose pulmonar bacil\xEDfera?"
+    CorrectAnswer: "Respirador facial ou m\xE1scara N95 ou m\xE1scara PFF2."
+    WrongAnswers:
+    - "Protetor facial \u2018face Shield\u2019."
+    - "M\xE1scara cir\xFArgica."
+  linkQuestions: []
+  wordQuestions:
+  - statement: "Precau\xE7\xF5es A\xE9reas podem ser por got\xEDculas ou por aerossol.
+      Complete a lacuna com \u201Cgot\xEDculas\u201D ou \u201Caerossol\u201D.\n\nA
+      precau\xE7\xE3o a\xE9rea em casos de Sarampo \xE9 a precau\xE7\xE3o por _____________."
+    CorrectAnswer: aerossol
+    Regex: \s*aerossol\s*
+  - statement: "Precau\xE7\xF5es A\xE9reas podem ser por got\xEDculas ou por aerossol.
+      Complete a lacuna com \u201Cgot\xEDculas\u201D ou \u201Caerossol\u201D.\n\nA
+      precau\xE7\xE3o a\xE9rea em caso de Meningite \xE9 a precau\xE7\xE3o por _____________."
+    CorrectAnswer: "got\xEDculas "
+    Regex: "\\s*got[i\xED]culas\\s*"
+  - statement: "Precau\xE7\xF5es A\xE9reas podem ser por got\xEDculas ou por aerossol.
+      Complete a lacuna com \u201Cgot\xEDculas\u201D ou \u201Caerossol\u201D.\n\nA
+      precau\xE7\xE3o a\xE9rea em caso de Influenza A/B \xE9 a precau\xE7\xE3o por
+      _____________."
+    CorrectAnswer: "got\xEDculas"
+    Regex: "\\s*got[i\xED]culas\\s*"
+  - statement: "Precau\xE7\xF5es A\xE9reas podem ser por got\xEDculas ou por aerossol.
+      Complete a lacuna com \u201Cgot\xEDculas\u201D ou aerossol\u201D.\n\nEm casos
+      de Covid-19 durante procedimentos que causam aerossol a precau\xE7\xE3o a\xE9rea
+      por _____________ deve ser associada \xE0 precau\xE7\xE3o por contato. "
+    CorrectAnswer: aerossol
+    Regex: \s*aerossol\s*
+  - statement: "Complete a lacuna utilizando a op\xE7\xE3o \u201Cdentro\u201D ou
+      \u201Cfora\u201D:\nPara prestar cuidado de sa\xFAde a um paciente em Precau\xE7\xE3o
+      A\xE9rea por Aerossol, a paramenta\xE7\xE3o dever\xE1 ser realizada ap\xF3s
+      a higiene das m\xE3os com coloca\xE7\xE3o de m\xE1scara, avental e \xF3culos
+      ou protetor facial fora da acomoda\xE7\xE3o do paciente.\n\nO avental e luvas
+      devem ser retirados _____________ da acomoda\xE7\xE3o do paciente.\n\nO protetor
+      facial ou \xF3culos e m\xE1scara devem ser retirados fora da acomoda\xE7\xE3o,
+      seguida da higiene das m\xE3os.\r\n"
+    CorrectAnswer: dentro
+    Regex: \s*dentro\s*
+  - statement: "Complete a lacuna com \u201Cfechada\u201D ou \u201Caberta\u201D.\n\nNas
+      situa\xE7\xF5es de Precau\xE7\xE3o A\xE9rea a porta do quarto privativo deve,
+      obrigatoriamente, permanecer_____________ pelo risco de o microrganismo ser
+      transportado por correntes de ar."
+    CorrectAnswer: fechada
+    Regex: \s*fechada\s*

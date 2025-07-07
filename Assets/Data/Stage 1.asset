@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f30fdb8b02f07a84a997561d7598b424, type: 3}
+  m_Name: Stage 1
+  m_EditorClassIdentifier: 
+  stageName: "N\xEDvel 1 - Precau\xE7\xE3o Padr\xE3o"
+  stageDescription: "- Precau\xE7\xF5es Padr\xE3o s\xE3o um grupo de pr\xE1ticas
+    de preven\xE7\xE3o de infec\xE7\xE3o que se aplicam a todos os pacientes, independentemente
+    de diagn\xF3stico suspeito ou confirmado ou status de infec\xE7\xE3o presumido.
+    \r\n- O objetivo \xE9 estabelecer uma barreira contra material org\xE2nico e
+    contaminantes de modo geral.\r\n- As Precau\xE7\xF5es Padr\xE3o incluem higiene
+    das m\xE3os e, dependendo do risco de exposi\xE7\xE3o do profissional de sa\xFAde,
+    \xE9 recomendado o uso de equipamentos de prote\xE7\xE3o individual, como luvas,
+    avental, m\xE1scara, prote\xE7\xE3o ocular (\xF3culos) ou protetor facial.\r"
+  optionsQuestions:
+  - statement: "\xC9 recomendado que a higiene das m\xE3os no ambiente de sa\xFAde
+      seja realizada com solu\xE7\xE3o alco\xF3lica ou \xE1gua e sabonete l\xEDquido.
+      \r\nQuais s\xE3o os 5 momentos oportunos para higiene das m\xE3os?\r"
+    CorrectAnswer: "Antes de tocar no paciente; Antes de realizar procedimentos ass\xE9pticos
+      e limpos; Ap\xF3s tocar no paciente; Ap\xF3s risco de exposi\xE7\xE3o a fluidos
+      corporais; Ap\xF3s entrar em contato com superf\xEDcies pr\xF3ximas ao paciente."
+    WrongAnswers:
+    - "Ap\xF3s ir ao banheiro; Antes de tocar no paciente; Ap\xF3s realizar procedimentos
+      ass\xE9pticos e limpos; Ap\xF3s tocar no paciente; Antes de entrar em contato
+      com superf\xEDcies pr\xF3ximas ao paciente.\r"
+    - "Ap\xF3s tocar no paciente; Ap\xF3s realizar procedimentos ass\xE9pticos e
+      limpos; Antes do uso de luvas; Ap\xF3s risco de exposi\xE7\xE3o a fluidos corporais;
+      Ap\xF3s o uso de luvas.\r"
+  - statement: "Quando houver contato com flu\xEDdos corporais ou sujidade aparente,
+      como deve ser realizada a higiene das m\xE3os?"
+    CorrectAnswer: "Com \xE1gua e sabonete l\xEDquido."
+    WrongAnswers:
+    - "Com fric\xE7\xE3o de solu\xE7\xE3o alco\xF3lica."
+    - "Com escova\xE7\xE3o cir\xFArgica e solu\xE7\xE3o degermante."
+  - statement: "Para realizar uma pun\xE7\xE3o venosa, quais equipamentos de prote\xE7\xE3o
+      individual devem ser usados?"
+    CorrectAnswer: "Luvas, avental, m\xE1scara e \xF3culos.\r"
+    WrongAnswers:
+    - "Luvas e m\xE1scara."
+    - "\xD3culos e luvas."
+  - statement: "Os equipamentos de prote\xE7\xE3o individual (EPI) s\xE3o barreiras
+      de prote\xE7\xE3o. Contudo, se utilizados de forma errada podem representar
+      um meio de transmiss\xE3o de microrganismos. Aponte a alternativa que corresponde
+      a uma situa\xE7\xE3o em que o EPI pode representar risco de transmiss\xE3o
+      de microrganismos."
+    CorrectAnswer: Realizar procedimentos em pacientes diferentes sem trocar as luvas.
+    WrongAnswers:
+    - "Utilizar a mesma m\xE1scara para atender pacientes diferentes."
+    - "Trocar a paramenta\xE7\xE3o entre pacientes."
+  - statement: "Os equipamentos de prote\xE7\xE3o individual que protegem os profissionais
+      de sa\xFAde contra agentes infecciosos e interrompem a cadeia de transmiss\xE3o
+      s\xE3o:"
+    CorrectAnswer: "M\xE1scara, \xF3culos, luvas e avental."
+    WrongAnswers:
+    - "M\xE1scara, luvas e avental."
+    - "M\xE1scaras, \xF3culos e avental."
+  - statement: "Durante os cuidados com o mesmo paciente, em qual momento \xE9 necess\xE1rio
+      trocar as luvas de procedimentos e higienizar as m\xE3os antes de continuar
+      o atendimento?"
+    CorrectAnswer: "Ap\xF3s a higiene de \xE1reas de maior contamina\xE7\xE3o, como
+      a regi\xE3o \xEDntima."
+    WrongAnswers:
+    - "Em nenhum momento, pois as luvas representam barreiras \xE0 contamina\xE7\xE3o."
+    - "Ap\xF3s a manipula\xE7\xE3o de via venosa e dispositivos sem exposi\xE7\xE3o
+      a sangue."
+  - statement: "Com intuito de evitar a transmiss\xE3o de microrganismos por contato
+      indireto, qual \xE9 a a\xE7\xE3o indicada ap\xF3s manuseio de materiais \xE0
+      beira leito?"
+    CorrectAnswer: "Desinfetar os materiais e higienizar as m\xE3os."
+    WrongAnswers:
+    - "Higienizar as m\xE3os e guardar os materiais imediatamente ap\xF3s o uso."
+    - "Higienizar as m\xE3os e deixar o material \xE0 beira leito at\xE9 a mudan\xE7a
+      de turno de trabalho."
+  - statement: "Um paciente necessita a troca da cobertura de ferida drenante. Quais
+      equipamentos de prote\xE7\xE3o individual s\xE3o necess\xE1rios para realizar
+      o procedimento?"
+    CorrectAnswer: "Luvas, avental, m\xE1scara \xF3culos."
+    WrongAnswers:
+    - "Luvas e m\xE1scara."
+    - "\xD3culos e luvas."
+  - statement: "A Precau\xE7\xE3o Padr\xE3o \xE9 recomendada no atendimento a quais
+      pacientes?"
+    CorrectAnswer: "A todos os pacientes com ou sem diagn\xF3stico de infec\xE7\xE3o
+      ou coloniza\xE7\xE3o."
+    WrongAnswers:
+    - "A todos os pacientes com diagn\xF3stico de infec\xE7\xE3o ou coloniza\xE7\xE3o."
+    - "A todos os pacientes com infec\xE7\xE3o confirmada."
+  linkQuestions:
+  - statement: "Relacione as alternativas da primeira coluna A com sua correspondente
+      na coluna B sobre os 5 momentos oportunos para a higiene das m\xE3os."
+    pairs:
+    - column1: Momento 1.
+      column2: Antes do contato com o paciente.
+    - column1: Momento 2.
+      column2: "Antes de realizar procedimentos ass\xE9pticos ou limpos."
+    - column1: Momento 3.
+      column2: "Ap\xF3s exposi\xE7\xE3o a fluidos corporais."
+    - column1: Momento 4.
+      column2: "Ap\xF3s contato com o paciente."
+    - column1: Momento 5.
+      column2: "Ap\xF3s contato com \xE1reas pr\xF3ximas ao paciente."
+  wordQuestions:
+  - statement: "Complete a lacuna. \n\nA desinfec\xE7\xE3o de equipamentos deve ser
+      realizada, prioritariamente, com um produto _____________."
+    CorrectAnswer: saneante
+    Regex: \s*saneante\s*
+  - statement: "A etiqueta respirat\xF3ria deve ser orientada a todos os pacientes
+      e acompanhantes. Complete a lacuna com a recomenda\xE7\xE3o destinada a esse
+      p\xFAblico.\n\nAo acessar um servi\xE7o de sa\xFAde com sintomas respirat\xF3rios
+      utilize _____________."
+    CorrectAnswer: "m\xE1scara "
+    Regex: "\\s*m[\xE1a]scara\\s*"
