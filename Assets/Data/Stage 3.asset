@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f30fdb8b02f07a84a997561d7598b424, type: 3}
   m_Name: Stage 3
   m_EditorClassIdentifier: 
-  stageName: "N\xEDvel 3 - Precau\xE7\xE3o a\xE9rea"
+  stageName: "N\xEDvel 3 - Precau\xE7\xE3o A\xE9rea"
   stageDescription: "- As Precau\xE7\xF5es A\xE9reas s\xE3o aplicadas frente \xE0
     potencial transmiss\xE3o de microrganismos presentes em aeross\xF3is ou got\xEDculas
     expelidos pela boca e nariz do paciente. \r\n- O objetivo \xE9 estabelecer uma
