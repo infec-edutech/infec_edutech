@@ -55,7 +55,7 @@ MonoBehaviour:
     WrongAnswers:
     - "Profissional com uso de m\xE1scara cir\xFArgica e paciente com uso de m\xE1scara
       N95."
-    - "ofissional e paciente com uso de m\xE1scara N95."
+    - "Profissional e paciente com uso de m\xE1scara N95."
   - statement: "Quando o paciente est\xE1 em Precau\xE7\xE3o A\xE9rea e n\xE3o h\xE1
       possibilidade de quarto privativo, em qual condi\xE7\xE3o ele pode ser internado
       com outros pacientes?"
