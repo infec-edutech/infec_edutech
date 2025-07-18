@@ -51,5 +51,20 @@ MonoBehaviour:
     WrongAnswers:
     - errada
     - errada
-  linkQuestions: []
+  linkQuestions:
+  - statement: "Algumas bact\xE9rias quando identificadas nos servi\xE7os de sa\xFAde
+      s\xE3o alvo de aten\xE7\xE3o. Relacione a bact\xE9ria com a correspondente
+      Precau\xE7\xE3o e cuidados recomendados."
+    pairs:
+    - column1: Acinetobacter sp.
+      column2: "Bact\xE9ria com reservat\xF3rio ambiental por longo per\xEDodo, e
+        requer Precau\xE7\xE3o por Contato e higiene das m\xE3os com solu\xE7\xE3o
+        alco\xF3lica ou sabonete l\xEDquido."
+    - column1: E.colli.
+      column2: "Bact\xE9ria muito comum em infec\xE7\xF5es comunit\xE1rias, se n\xE3o
+        apresentar perfil de resist\xEAncia requer Precau\xE7\xE3o Padr\xE3o e higiene
+        das m\xE3os com solu\xE7\xE3o alco\xF3lica ou sabonete l\xEDquido."
+    - column1: Clostridioides difficile.
+      column2: "Bact\xE9ria que na forma esporulada resiste no ambiente, e requer
+        Precau\xE7\xE3o por Contato e higiene das m\xE3os com sabonete l\xEDquido."
   wordQuestions: []
